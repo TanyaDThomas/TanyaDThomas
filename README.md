@@ -1,8 +1,6 @@
-### Hi there 👋, My name is Tanya
+# Hello, World! 👋, My name is Tanya
 #### I am a .NET Software Developer
 ![I am a .NET Software Developer](https://media.licdn.com/dms/image/D4E16AQFc8gn7C51bPQ/profile-displaybackgroundimage-shrink_350_1400/0/1710812080606?e=1716422400&v=beta&t=3_5IRchSnBXLUEl-cfjMJpNi0GST1JdhAPRFn2nVy9U)
-
-# Hello, World! 👋
 
 ####     Welcome to my GitHub repository! My name is Tanya and I'm a recent graduate from South College, where I earned a Bachelor's degree in Computer Science with a focus on Software Engineering. I'm passionate about building innovative software solutions and currently, I'm on a journey to become a skilled .NET engineer.
 
