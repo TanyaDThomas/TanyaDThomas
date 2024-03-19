@@ -19,9 +19,7 @@
 # Get in Touch
 #### I'm always open to connecting with fellow developers, discussing ideas, or collaborating on projects. You can reach out to me via LinkedIn, Twitter, or through my website.
 
-[LinkedIn] [https://www.linkedin.com/in/tanya-d-thomas] 
-
-[Twitter] [https://twitter.com/TechWithTanya]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TanyaDThomas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanya-d-thomas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/TechWithTanya)  
 
 #Skills and Experience:
 * 💻 .NET Core
@@ -31,7 +29,7 @@
 #Current Projects I'm Working On:
 <img src = " " width = "256" />
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TanyaDThomas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanya-d-thomas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/TechWithTanya)  
+
 
 
 
