@@ -8,7 +8,7 @@
 
 #### 💻 Currently focusing on learning Amazon Web Services.
 
-#### 🌟 Interested in software engineering, web development, and cloud computing
+#### 🌟 Interested in full stack software engineering, Generative AI, and cloud computing
 
 #### 📚 Constantly learning and exploring new technologies
 
